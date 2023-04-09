@@ -6,9 +6,13 @@ To write a python program to find the inverse of a matrix
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1 : 
+Import the numpy module to use the built-in functions for calculations
 ### Step 2: 
+Prepare the lists from each equations and assign in np.array()
 ### Step 3: 
-### Step 4: 
+Using the np.linalg.solve(), we can find the solutions
+### Step 4:
+End the program 
 
 ## Program:
 ```
